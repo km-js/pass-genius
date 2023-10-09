@@ -1,4 +1,4 @@
-##4. PassGenius 🔐
+## PassGenius 🔐
 Your Personal Password Wizard.
 
 [Go to project](https://km-js.github.io/pass-genius/)
